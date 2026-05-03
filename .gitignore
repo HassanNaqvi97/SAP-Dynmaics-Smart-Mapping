@@ -4,3 +4,7 @@
 
 /.github
 /.vs
+
+# Build artifacts
+bin/
+obj/
