@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SAP.Dynamics.SmartMapping")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8d96336445eaa163a087ca26333cb62820f0357")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5dcba9b8e3537a5cbc69f0615d89245b443c5d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SAP.Dynamics.SmartMapping")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SAP.Dynamics.SmartMapping")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
