@@ -1,0 +1,10 @@
+{
+  "description": {
+    "language": "dotnet-isolated",
+    "extensions": [ ".dll" ],
+    "defaultExecutablePath": "dotnet",
+    "defaultWorkerPath": "SAP.Dynamics.SmartMapping.dll",
+    "workerIndexing": "true",
+    "canUsePlaceholder": true
+  }
+}

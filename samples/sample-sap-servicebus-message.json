@@ -1,0 +1,26 @@
+{
+  "correlationId": "corr-2026-0001",
+  "eventType": "sap.organizationAccount.created",
+  "sourceSystem": "SAP-S4HANA",
+  "organizationAccount": {
+    "businessPartnerId": "BP-1000456",
+    "customerId": "CUST-90012",
+    "organizationName": "Contoso Manufacturing LLC",
+    "phone": "+1-425-555-0151",
+    "fax": "+1-425-555-0152",
+    "email": "ops@contosomfg.com",
+    "website": "https://contosomfg.com",
+    "industry": "Manufacturing",
+    "addressLine1": "1000 Industrial Ave",
+    "city": "Redmond",
+    "state": "WA",
+    "postalCode": "98052",
+    "country": "US",
+    "taxId": "94-1234567",
+    "businessLicenseNumber": "WA-BIZ-8821",
+    "customerSegment": "Enterprise",
+    "customerTier": "Gold",
+    "salesChannel": "Direct",
+    "creditLimit": 250000.00
+  }
+}
