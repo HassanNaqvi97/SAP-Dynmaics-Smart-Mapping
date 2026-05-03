@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ServiceBusConnection": "<service-bus-connection-string>",
+    "ServiceBus__SapAccountQueueName": "sap-account-mapping",
+    "AzureOpenAI__Endpoint": "https://<your-resource>.openai.azure.com",
+    "AzureOpenAI__ApiKey": "<api-key>",
+    "AzureOpenAI__DeploymentName": "gpt-4.1",
+    "AzureOpenAI__ApiVersion": "2024-10-21"
+  }
+}
